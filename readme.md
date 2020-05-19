@@ -54,7 +54,7 @@ Your solution file will contain the project(s) that make up your application. Fo
 
 # Getting Ready for GitHub
 
-* Generate a .gitignore file so only necessary files are added to your repository: `dotnet new gitignore`
+* Generate a .gitignore file so only necessary files are added to your repository: `dotnet new ignore` or `dotnet new gitignore`
 * Initialize a new git repository in your solution directory: `git init`
 * Get ready to save the work you have done by staging it for source control: `git add .`
 * Commit the changes you have made so far: `git commit -m 'Initial commit'`
